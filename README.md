@@ -46,6 +46,27 @@ chmod +x install-youtube.sh
 
 ---
 
+## 🔗 Comment trouver l'URL d'une vidéo YouTube
+
+**Sur ordinateur (navigateur) :**
+1. Ouvre la vidéo sur YouTube
+2. Copie le lien dans la barre d'adresse
+```
+https://www.youtube.com/watch?v=XXXX
+```
+
+**Sur  application YouTube :**
+1. Ouvre la vidéo
+2. Appuie sur **Partager**
+3. Appuie sur **Copier le lien**
+```
+https://youtu.be/XXXX
+```
+
+> Les deux formats fonctionnent parfaitement. ✅
+
+---
+
 ## 🎬 Utilisation
 
 Après l'installation, ouvre le terminal ou CMD et tape :
