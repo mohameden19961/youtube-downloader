@@ -20,8 +20,10 @@ Télécharge n'importe quelle vidéo YouTube en une seule commande simple.
 >
 > ## **[mohameden19961.github.io/youtube-downloader](https://mohameden19961.github.io/youtube-downloader)**
 >
-> Le site détecte automatiquement ton système (Windows ou Linux),
-> te donne le fichier à télécharger et t'explique exactement quoi faire. ✅
+> 1. Ouvre le site
+> 2. Clique sur le bouton de téléchargement selon ton système
+> 3. Suis les étapes affichées sur le site
+> 4. C'est prêt ✅
 
 ---
 
