@@ -15,6 +15,18 @@ Télécharge n'importe quelle vidéo YouTube en une seule commande simple.
 
 ## 🚀 Installation
 
+> 👉 **Le plus simple : visite le site officiel qui te guide pas à pas :**
+>
+> ## **[mohameden19961.github.io/youtube-downloader](https://mohameden19961.github.io/youtube-downloader)**
+>
+> Le site détecte automatiquement ton système (Windows ou Linux),
+> te donne le fichier à télécharger et t'explique exactement quoi faire. ✅
+
+---
+
+<details>
+<summary>📖 Voir les instructions manuelles</summary>
+
 ### 🐧 Sur Ubuntu / Linux
 
 **1. Télécharge le fichier `install-youtube.sh`**
@@ -44,21 +56,25 @@ chmod +x install-youtube.sh
 
 **5. C'est prêt ✅**
 
+</details>
+
 ---
 
 ## 🔗 Comment trouver l'URL d'une vidéo YouTube
 
-**Sur  navigateur :**
+**Sur navigateur :**
 1. Ouvre la vidéo sur YouTube
 2. Copie le lien dans la barre d'adresse
+
 ```
 https://www.youtube.com/watch?v=XXXX
 ```
 
-**Sur  application YouTube :**
+**Sur application YouTube :**
 1. Ouvre la vidéo
 2. Appuie sur **Partager**
 3. Appuie sur **Copier le lien**
+
 ```
 https://youtu.be/XXXX
 ```
@@ -92,6 +108,7 @@ La vidéo sera téléchargée dans le dossier où tu te trouves.
 📦 youtube-downloader
  ┣ 📄 install-youtube.sh     → Installation pour Ubuntu / Linux
  ┣ 📄 install-youtube.bat    → Installation pour Windows
+ ┣ 📄 index.html             → Site web de guide
  ┗ 📄 README.md              → Ce fichier
 ```
 
