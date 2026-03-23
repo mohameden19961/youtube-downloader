@@ -16,7 +16,7 @@ Télécharge n'importe quelle vidéo YouTube en une seule commande simple.
 ## 🚀 Installation
 
 > 👉 **Le plus simple : visite le site officiel qui te guide pas à pas :**
->![Aperçu du site](screenshot.png)
+>![Aperçu du site](screen.png)
 >
 > ## **[mohameden19961.github.io/youtube-downloader](https://mohameden19961.github.io/youtube-downloader)**
 >
